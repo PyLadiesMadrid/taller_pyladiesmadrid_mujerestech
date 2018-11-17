@@ -29,7 +29,9 @@ Todo ello se verá desde un punto de vista práctico, con  ejemplos y ejercicios
 
 
 ## Diapositivas:
-[Aquí](https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_pyladiesmadrid_mujerestech/blob/master/slides.ipynb)
+[Slides_001](https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_pyladiesmadrid_mujerestech/blob/master/slides_001.ipynb)
+[Slides_002](https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_pyladiesmadrid_mujerestech/blob/master/slides_002.ipynb)
+[Slides_003](https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_pyladiesmadrid_mujerestech/blob/master/slides_003.ipynb)
 
 
 ## Lugar:
